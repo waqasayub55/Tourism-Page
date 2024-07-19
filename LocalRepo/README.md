@@ -1,0 +1,1 @@
+# This project is all about some basci web development techniques used in designing a simple webpage.
